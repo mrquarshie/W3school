@@ -12,4 +12,4 @@ const myMother = new Person("ama", "adwubi", 45, "accra")
 //adding a new property to an object
 myMother.shirtcolor="red";
 //javascript events
-<button onclick="document.getElementById('demo').innerHTML = Date()">The time is?</button>
+<button onclick="document.getElementById('demo').innerHTML = Date()">The time is? gbg</button>
