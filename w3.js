@@ -19,4 +19,6 @@ let name2= name.uppercase();
 //create copies of a string
 let namee="manny";
 let conamee=namee.repeat(2);
-//
+//replace text
+let text="i do like pizza";
+let newText=text.replace("i love pizza");
