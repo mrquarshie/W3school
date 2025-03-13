@@ -16,3 +16,7 @@ myMother.shirtcolor="red";
 //converting stuff t uppercase
 let name= "emmanuel";
 let name2= name.uppercase();
+//create copies of a string
+let namee="manny";
+let conamee=namee.repeat(2);
+//
