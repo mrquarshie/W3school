@@ -22,3 +22,4 @@ let conamee=namee.repeat(2);
 //replace text
 let text="i do like pizza";
 let newText=text.replace("i love pizza");
+let
