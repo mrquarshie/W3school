@@ -24,4 +24,4 @@ let text="i do like pizza";
 let newText=text.replace("i love pizza");
 let nameee="emmanuel";
 let newName=nameee.replace("emmanuel", "manny");
-//template strings
+//template string
