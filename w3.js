@@ -24,5 +24,7 @@ let text="i do like pizza";
 let newText=text.replace("i love pizza");
 let nameee="emmanuel";
 let newName=nameee.replace("emmanuel", "manny");
-//template stringgg
-hccc
+//js numbers
+let x= 5;
+let y=6;
+z=y+x;
