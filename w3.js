@@ -28,3 +28,11 @@ let newName=nameee.replace("emmanuel", "manny");
 let x= 5;
 let y=6;
 z=y+x;
+//bigint is for very big integers
+//normal number
+let h=5;
+//bigint
+let g= BigInt(5555555555555555)
+
+
+
