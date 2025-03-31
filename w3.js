@@ -34,5 +34,6 @@ let h=5;
 //bigint
 let g= BigInt(5555555555555555)
 
+//number methods
 
 
